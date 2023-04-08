@@ -1,0 +1,264 @@
+.nav-item
+{
+    padding: 0 20px;
+}
+
+#header
+{
+    margin-bottom: 100px;
+    padding: 30px 0;
+    background-color: rgb(233, 233, 233);
+    text-align: center;
+}
+#wel
+{
+    color: #007bff;
+    font-family: arial;
+    font-size: 35pt;
+    font-weight: bold;
+    padding-top: 15px;
+}
+#to
+{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 22pt;
+    margin-top: 8px;
+}
+#shop
+{
+    padding: 10px 30px;
+    font-size: 15pt;
+}
+
+
+#ourshop
+{
+    margin: auto;
+    margin-bottom: 80px;
+}
+#about
+{
+    border: 2px solid black;
+    box-shadow: 10px -13px 3px 2px black;
+    padding: 20px;
+}
+#about > h1
+{
+    font-family: arial;
+    font-size: 30pt;
+    font-weight: bold;
+}
+#about > label
+{
+    font-family: calibri;
+    font-size: 13pt;
+    padding-bottom: 20px;
+}
+
+#head
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#head > h2
+{
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 32pt;
+}
+#head > label
+{
+    font-size: 15pt;
+}
+
+
+#glassimg
+{
+    margin: auto;
+    margin-bottom: 20px;
+}
+#glass
+{
+    border: 1px solid black;
+    background-color: white;
+    padding: 40px 10px;
+    text-align: center;
+    transition: transform 0.4s ease;
+}
+#glass:hover
+{
+    box-shadow: 2px 2px 3px black;
+    transform: scale(1.01);
+}
+#glass > h2
+{
+    font-family: Poppins,sans-serif;
+    font-size: 20pt;
+    text-align: center;  
+    padding: 20px 0 2px;
+}
+#glass > h2::first-letter
+{
+    content: "";
+    color:  #007bff;
+}
+#glass > label
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15pt;
+    font-weight: bold;
+}
+#glassread
+{
+    font-size: 15pt;
+    padding: 8px 40px;
+    margin-top: 30px;
+} 
+ 
+
+#sunshop
+{
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+#sunshop > div
+{
+    background-color: rgb(242, 244, 246);
+}
+#sunglasses
+{
+    color: black;
+    padding: 20px;
+    margin: auto;
+}
+#sunglasses > h2::after
+{
+    content: "";
+    background-color: black;
+    height: 2px;
+    display: block;
+    margin-top: 8px;
+    width: 220px;
+}
+#sunglasses > p
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 13pt;
+    line-height: 1.6;
+    margin-top: 20px;
+}
+#sunbtn
+{
+    padding: 10px 25px;
+    margin-top: 15px;
+}
+
+#client
+{
+    margin: auto;
+    margin-bottom: 40px;
+}
+#client > h2
+{
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 32pt;
+}
+#client > p
+{
+    font-size: 15pt;
+}
+  
+ 
+#sandy-mark
+{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 80px;
+}
+#mark > h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30pt;
+    color: rgb(49, 49, 49);
+}
+#mark > p
+{
+    font-family: calibri;
+    font-size: 14pt;
+}
+ 
+
+#art
+{
+    margin-bottom: 60px;
+}
+#contact
+{
+    text-align: center;
+}
+#contact > h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(74, 74, 74);
+    margin-bottom: 20px;
+    font-size: 30pt;
+}
+#contact > label > input
+{
+    border-width: 0 0 1px;
+    width: 300px;
+    outline: 0;
+    font-size: 13pt;
+    padding-bottom: 10px;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+#contact > label > input:focus
+{
+    border-color: rgba(0, 149, 255, 0.997);
+}
+#contact > textarea
+{
+    width: 300px;
+    border-width: 0 0 1px;
+    background-color: transparent;
+    outline: 0;
+}
+#contact > textarea:focus
+{
+    border-color: rgba(0, 149, 255, 0.997);
+}
+#contact > a
+{
+    padding: 8px 130px;
+    margin-bottom: 20px;
+}
+
+
+#foot
+{
+    padding: 30px;
+    margin: auto;
+    color: white;
+    background-color: rgb(37, 36, 36);
+}
+#footfa
+{
+    text-align: center;
+}
+#footfa > i
+{
+    margin-bottom: 15px;
+    font-size: 15pt;
+}
+ 
+
+
+
+
+
