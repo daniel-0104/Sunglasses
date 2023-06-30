@@ -208,35 +208,31 @@
     margin-bottom: 20px;
     font-size: 30pt;
 }
-#contact > label > input
+#form-group > div > input
 {
     border-width: 0 0 1px;
-    width: 300px;
     outline: 0;
     font-size: 13pt;
     padding-bottom: 10px;
     background-color: transparent;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    width: 250px;
 }
-#contact > label > input:focus
+#form-group > div > input:focus
 {
     border-color: rgba(0, 149, 255, 0.997);
 }
-#contact > textarea
+#form-group > div > textarea
 {
-    width: 300px;
     border-width: 0 0 1px;
     background-color: transparent;
     outline: 0;
+    resize: none;
+    margin-bottom: 20px;
 }
-#contact > textarea:focus
+#form-group > div > textarea:focus
 {
     border-color: rgba(0, 149, 255, 0.997);
-}
-#contact > a
-{
-    padding: 8px 130px;
-    margin-bottom: 20px;
 }
 
 
